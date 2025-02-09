@@ -31,3 +31,63 @@ npm run dev
 ```sh
 npm run build
 ```
+
+```sh
+composer require laravel/breeze --dev
+```
+
+```sh
+php artisan breeze:install
+```
+
+```sh
+npm install && npm run build
+```
+
+```sh
+npm install -D tailwindcss postcss autoprefixer
+```
+
+```sh
+npm install flowbite
+```
+
+```sh
+composer require laravel/fortify
+```
+
+```sh
+php artisan fortify:install
+```
+
+```sh
+npm install @formkit/vue
+```
+
+```sh
+npm install @formkit/core
+```
+
+```sh
+npx formkit@latest theme
+```
+
+```sh
+npm install pinia
+```
+
+```sh
+npm i pinia-plugin-persistedstate
+```
+
+```sh
+npm install vue-toast-notification@^3
+```
+
+```sh
+npm install laravel-vue-pagination
+```
+
+```sh
+npm install @heroicons/vue
+```
